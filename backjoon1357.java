@@ -40,4 +40,4 @@ public class backjoon1357 {
         }
         return sum;
     }
-}
+}  

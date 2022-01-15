@@ -1,5 +1,3 @@
-package github.backjoon;
-
 import java.util.Scanner;
 
 public class backjoon1001 {

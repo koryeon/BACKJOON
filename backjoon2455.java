@@ -1,5 +1,4 @@
 import java.util.Scanner;
-package github.BACKJOON;
 public class backjoon2455 {
     public static void main(String args[]){
         Scanner s=new Scanner(System.in);

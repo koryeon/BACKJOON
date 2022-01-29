@@ -1,6 +1,3 @@
-
-
-package github.BACKJOON;
 import java.util.Scanner;
 public class backjoon2747 {
  public static void main(String args[]) {

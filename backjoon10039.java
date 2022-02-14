@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class backjoon10036 {
+public class backjoon10039 {
     public static void main(String args[]) {
      Scanner s = new Scanner(System.in);
      int sum=0;
